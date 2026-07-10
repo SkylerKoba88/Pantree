@@ -48,7 +48,7 @@ export default function HomePage({ currentPath }) {
     `
     : html`
       <div style="text-align: center;">
-        <h4>Welcome to Pantree</h4>
+        <h4>Welcome to Pantree!</h4>
         <p>The grocery tracking app</p>
       </div>
 
