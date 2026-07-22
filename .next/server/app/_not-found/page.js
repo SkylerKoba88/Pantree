@@ -1,0 +1,12 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1z97epk._.js")
+R.c("server/chunks/ssr/1ua3_next_dist_esm_build_templates_app-page_0dy7ye4.js")
+R.c("server/chunks/ssr/[root-of-the-server]__04qosob._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1cu8tty._.js")
+R.c("server/chunks/ssr/OneDrive_PantreeApp_app_layout_tsx_0ayj67c._.js")
+R.c("server/chunks/ssr/1ua3_next_dist_client_components_0_hx6zx._.js")
+R.c("server/chunks/ssr/1ua3_next_dist_client_components_builtin_forbidden_0cys31t.js")
+R.c("server/chunks/ssr/1ua3_next_dist_client_components_builtin_unauthorized_155r42e.js")
+R.c("server/chunks/ssr/OneDrive_PantreeApp__next-internal_server_app__not-found_page_actions_1_2a-yv.js")
+R.m(56130)
+module.exports=R.m(56130).exports

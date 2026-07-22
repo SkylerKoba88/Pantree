@@ -1,0 +1,43 @@
+button {
+    background-color: #CB2127;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 40px;
+    font-size: 12px;
+    font-weight: medium;
+    cursor: pointer;
+}
+
+.back-button {
+    background-color: #1E1E1E;
+}
+
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    padding: 16px;
+    border-radius: 8px;
+    width: 300px;
+    justify-items: center;
+}
+img {
+    width: 64px;
+}
+
+input, select {
+    width: 100%;
+    margin-bottom: 8px;
+    padding: 6px;
+}
